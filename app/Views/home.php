@@ -4,8 +4,8 @@
 		<title>DGPT4711 Lab 06</title>
 	</head>
 	<body>
-		<h1>Fashion Brand Founders</h1>
-		<p><a href="/travel">Show the Fashion Brand Founders</a>.</p>
-		<p><a href="/places">Show the founders raw data</a></p>
+		<h1>Travel Destinations</h1>
+		<p><a href="/travel">Show the destinations</a>.</p>
+		<p><a href="/places">Show the places raw data</a></p>
 	</body>
 </html>
